@@ -19,4 +19,4 @@ Hi there!
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddiamond97)](https://solved.ac/ddiamond97)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seonghyun97)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seonghyun97)
