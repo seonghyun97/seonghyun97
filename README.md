@@ -1,10 +1,10 @@
-# About me
+# About me 😎
 Hi there!
 * Hongik Univ, Seoul, Korea (Computer Engineeing)
 * contact : gunella186@gmail.com
 * blog : https://velog.io/@seonghyun
 
-# Tech Stack
+# Tech Stack 💪🏻
 
 ### Language
 
