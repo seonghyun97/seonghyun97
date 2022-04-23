@@ -30,6 +30,6 @@ Nice to meet you in my github 🤗.
 
 ![Seonghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghyun97&show_icons=true&theme=radical)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddiamond97)](https://solved.ac/ddiamond97)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddiamond97)](https://solved.ac/ddiamond97).  
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seonghyun97)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seonghyun97).  
