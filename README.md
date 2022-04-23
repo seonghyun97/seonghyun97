@@ -2,9 +2,7 @@
 
 
 # 😎 About me 😎
-Hi there! I was majored in Computer Engineering.👨🏻‍💻
-I love all about Computer.
-Nowadays I'm studying machinelearning and deeplearning to develp amazing things!🦋
+Hi there! I was majored in Computer Engineering.👨🏻‍💻.  I love all about Computer.   Nowadays I'm studying machinelearning and deeplearning to develp amazing things!🦋
 
 I enjoy hiking, running and riding a bike 🚵🏻‍♂️
 Nice to meet you in my github 🤗
